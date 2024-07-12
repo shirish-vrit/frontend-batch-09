@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: aqua;
+  color: brown;
+}
+
+label {
+  font-size: 20px;
+}
+
+/* id ma styling garne tarika */
+/* #header_id {
+  background-color: aquamarine;
+} */
+
+.header_class.nav {
+  background-color: bisque;
+}
+
+header {
+  background-color: cadetblue;
+}
